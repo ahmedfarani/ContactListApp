@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contacts List App</string>
+    <string name="details_activity">Contact saved for personal and work communication.</string>
+</resources>
